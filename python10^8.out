@@ -1,0 +1,6 @@
+[A.1] Tiempo con bucle for en lista: 9.188759 segundos
+[A.2] Tiempo con función sum en lista: 0.840859 segundos
+[B.1] Tiempo con bucle for en array de NumPy: 15.543063 segundos
+[B.2] Tiempo con numpy.sum: 0.105160 segundos
+[C.1] Tiempo con Numba en array de NumPy: 5.591376 segundos
+[C.2] Tiempo con numpy.sum (sin Numba): 0.102828 segundos
